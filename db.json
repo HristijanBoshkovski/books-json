@@ -85,7 +85,7 @@
          "description":"Lorem ipsum dolor sit amet..."
       }
    ],
-   movies: [
+   "movies": [
       {
          "id":1,
          "name":"Harry Potter and the Philosopher's Stone",
