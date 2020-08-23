@@ -97,7 +97,7 @@
       {
          "id":2,
          "name":"Harry Potter and the Chamber of Secrets",
-         "image: "https://www.asimplyenchantedlife.com/wp-content/uploads/2016/05/50968-1.jpg",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Daniel Radcliffe",
          "distributedBy":"Warner Bros. Pictures",
          "description":"Lorem ipsum dolor sit amet..."
@@ -105,7 +105,7 @@
       {
          "id":3,
          "name":"Harry Potter and the Prisoner of Azkaban",
-         "image: "https://upload.wikimedia.org/wikipedia/en/a/a0/Harry_Potter_and_the_Prisoner_of_Azkaban.jpg",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Daniel Radcliffe",
          "distributedBy":"Warner Bros. Pictures",
          "description":"Lorem ipsum dolor sit amet..."
@@ -113,7 +113,7 @@
       {
          "id":4,
          "name":"Harry Potter and the Goblet of Fire",
-         "image: "http://4.bp.blogspot.com/-PQIYsNIumFk/U0R4Vyp6oUI/AAAAAAAAFpQ/za04TzJy_do/s1600/grid-cell-10988-1375222214-10.jpg",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Daniel Radcliffe",
          "distributedBy":"Warner Bros. Pictures",
          "description":"Lorem ipsum dolor sit amet..."
@@ -121,7 +121,7 @@
       {
          "id":5,
          "name":"Harry Potter and the Order of the Phoenix",
-         "image: "https://upload.wikimedia.org/wikipedia/en/thumb/7/70/Harry_Potter_and_the_Order_of_the_Phoenix.jpg/220px-Harry_Potter_and_the_Order_of_the_Phoenix.jpg",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Daniel Radcliffe",
          "distributedBy":"Warner Bros. Pictures",
          "description":"Lorem ipsum dolor sit amet..."
@@ -129,7 +129,7 @@
       {
          "id":6,
          "name":"Harry Potter and the Half-Blood Prince",
-         "image: "https://upload.wikimedia.org/wikipedia/pt/thumb/a/af/Capa_HP6.jpg/200px-Capa_HP6.jpg",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Daniel Radcliffe",
          "distributedBy":"Warner Bros. Pictures",
          "description":"Lorem ipsum dolor sit amet..."
@@ -137,7 +137,7 @@
       {
          "id":7,
          "name":"Harry Potter and the Deathly Hallows",
-         "image: "https://upload.wikimedia.org/wikipedia/en/a/a9/Harry_Potter_and_the_Deathly_Hallows.jpg",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Daniel Radcliffe",
          "distributedBy":"Warner Bros. Pictures",
          "description":"Lorem ipsum dolor sit amet..."
@@ -145,7 +145,7 @@
       {
          "id":8,
          "name":"Divergent",
-         "image: "https://th.bing.com/th/id/OIP.YyhMrAyPqz2se9V_1BMjUwHaLg?pid=Api&rs=1",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Shailene Woodley",
          "distributedBy":"Lionsgate",
          "description":"Lorem ipsum dolor sit amet..."
@@ -153,7 +153,7 @@
       {
          "id":9,
          "name":"Insurgent ",
-         "image: "http://3.bp.blogspot.com/-Fe_0CT6ovoE/VIyTG71R9xI/AAAAAAAACVM/e6cRTAWxLyg/s1600/insurgent-book-cover.jpg",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Shailene Woodley",
          "distributedBy":"Lionsgate",
          "description":"Lorem ipsum dolor sit amet..."
@@ -161,7 +161,7 @@
       {
          "id":10,
          "name":"Allegiant",
-         "image: "http://images6.fanpop.com/image/photos/34400000/-Allegiant-official-book-cover-divergent-34432244-845-1275.jpg",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Shailene Woodley",
          "distributedBy":"Lionsgate",
          "description":"Lorem ipsum dolor sit amet..."
@@ -169,7 +169,7 @@
       {
          "id":11,
          "name":"Ready Player One",
-         "image: "https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Ready_Player_One_cover.jpg/220px-Ready_Player_One_cover.jpg",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Tye Sheridan",
          "distributedBy":"Warner Bros. Pictures",
          "description":"Lorem ipsum dolor sit amet..."
@@ -177,7 +177,7 @@
       {
          "id":12,
          "name":"Shutter Island",
-         "image: "https://th.bing.com/th/id/OIP.n4bKSKr3dCp2sWV4IQjYfgHaLH?pid=Api&rs=1",
+         "image":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg/220px-Harry_Potter_and_the_Philosopher%27s_Stone_Book_Cover.jpg",
          "mainRole":"Leonardo DiCaprio",
          "distributedBy":"Paramount Pictures",
          "description":"Lorem ipsum dolor sit amet..."
