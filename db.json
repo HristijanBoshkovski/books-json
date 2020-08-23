@@ -2,7 +2,6 @@
   {
     "name": "Harry Potter and the Philosopher's Stone",
     "author": "J.K. Rowling",
-    "numberOfPages": 223,
     "description": "Lorem ipsum dolor sit amet..."
   },
   {
@@ -27,10 +26,8 @@
     "description": "Lorem ipsum dolor sit amet..."
   },
   {
-    "id": 5,
     "name": "Harry Potter and the Order of the Phoenix",
     "author": "J.K. Rowling",
-    "numberOfPages": 766,
     "description": "Lorem ipsum dolor sit amet..."
   },
   {
